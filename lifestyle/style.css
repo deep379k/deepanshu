@@ -1,0 +1,27 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Edu+TAS+Beginner&display=swap');</style>
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan', sans-serif;
+}
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+    background: #e3e6f3;
+    box-shadow: 0 5px 15px rgba(red,green,blue,alpha) ;
+}
+#navbar li{
+   display: flex;
+align-items: center;
+}
+#navbar li a{
+    text-decoration: none;
+    font-size: 18;
+    font-weight: 600;
+    color: black;
+}
+
